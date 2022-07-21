@@ -1,0 +1,14 @@
+{
+  "name": "@785bf84e5040ad23/movies-visualization",
+  "main": "ca3db37977402277@1030.js",
+  "version": "1030.0.0",
+  "homepage": "https://observablehq.com/@785bf84e5040ad23/movies-visualization",
+  "author": {
+    "name": "Thái Đặng Hong",
+    "url": "https://observablehq.com/@785bf84e5040ad23"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
